@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "textlint-rule-no-doubled-joshi": true,
+    "textlint-rule-spellcheck-tech-word": true,
+    "web-plus-db": true,
+    "no-mix-dearu-desumasu": true,
+    "no-double-negative-ja": true,
+    "ja-no-redundant-expression": true,
+    "ja-no-weak-phrase": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "no-doubled-conjunction": true,
+    "@textlint-ja/no-synonyms": true,
+    "ja-no-inappropriate-words": true
+  }
+}

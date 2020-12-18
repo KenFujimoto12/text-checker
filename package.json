@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "textlint": "*",
+    "textlint-rule-no-doubled-joshi": "*",
+    "textlint-rule-spellcheck-tech-word": "*",
+    "textlint-rule-web-plus-db": "*",
+    "textlint-rule-no-mix-dearu-desumasu": "*",
+    "textlint-rule-no-double-negative-ja": "*",
+    "textlint-rule-ja-no-redundant-expression": "*",
+    "textlint-rule-ja-no-weak-phrase": "*",
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "*",
+    "textlint-rule-no-doubled-conjunction": "*",
+    "sudachi-synonyms-dictionary": "*",
+    "textlint-rule-ja-no-inappropriate-words": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
