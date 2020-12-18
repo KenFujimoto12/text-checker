@@ -5,7 +5,7 @@
 # Usage
 
 ```bach
-docker build -t textchecker .
-docker run -it --name text-checker textchecker:latest bin/bash
+$ docker build -t textchecker .
+$ docker run -it --name text-checker textchecker:latest bin/bash
 ```
 
