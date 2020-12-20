@@ -14,6 +14,7 @@
     "textlint-rule-ja-no-inappropriate-words": "*",
     "textlint-rule-ja-no-redundant-expression": "*",
     "textlint-rule-ja-no-weak-phrase": "*",
+    "textlint-rule-mistaken-ward-check": "file:textlint-rule-mistaken-ward-check",
     "textlint-rule-no-double-negative-ja": "*",
     "textlint-rule-no-doubled-conjunction": "*",
     "textlint-rule-no-doubled-joshi": "*",

@@ -1,0 +1,3 @@
+[submodule "textlint-rule-mistaken-ward-check"]
+	path = textlint-rule-mistaken-ward-check
+	url = https://github.com/KenFujimoto12/textlint-rule-mistaken-ward-check.git
