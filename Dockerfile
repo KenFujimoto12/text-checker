@@ -31,4 +31,5 @@ WORKDIR /usr/bin
 RUN touch textlint
 RUN ln -s --force /text-checker/node_modules/.bin/textlint textlint
 
+
 WORKDIR /
