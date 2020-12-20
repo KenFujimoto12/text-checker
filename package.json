@@ -18,7 +18,11 @@
     "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "*",
     "textlint-rule-no-doubled-conjunction": "*",
     "sudachi-synonyms-dictionary": "*",
-    "textlint-rule-ja-no-inappropriate-words": "*"
+    "textlint-rule-ja-no-inappropriate-words": "*",
+    "@textlint-ja/textlint-rule-no-synonyms": "*",
+    "create-textlint-rule": "*",
+    "textlint-scripts": "*",
+    "typescript": "*"
   },
   "author": "",
   "license": "ISC"
