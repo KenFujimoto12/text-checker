@@ -4,7 +4,8 @@
 
 # Usage
 
-```bach
+```bash
+$ git clone --recursive git@github.com:KenFujimoto12/textlint-rule-mistaken-ward-check.git
 $ docker build -t text-checker .
 $ docker run -it --name text-checker text-checker:latest bin/bash
 ```
