@@ -42,4 +42,4 @@ Test textlint rule by [textlint-tester](https://github.com/textlint/textlint-tes
 
 ## License
 
-ISC © 
+ISC ©

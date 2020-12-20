@@ -2,3 +2,5 @@
 !README.md
 
 *.txt
+
+node_modules
