@@ -1,0 +1,8 @@
+*.md
+!README.md
+
+*.txt
+
+node_modules
+
+package-lock.json
